@@ -1,1 +1,28 @@
-/* Write your CSS here! */
+body {
+    background-image: url("https://wallpapers.com/images/hd/light-blue-aesthetic-cartoon-clouds-6ag5nnz42ri6xcss-6ag5nnz42ri6xcss.jpg");
+    background-size: cover;
+    margin: 8px;
+    display: block;
+}
+#mainHeading{
+    text-align: center;
+    color: red;
+}
+.funParagraph{
+    color: green;
+}
+p {
+font-family: "helvetica";
+color: green;
+margin: 8px, 10px, 12px;
+padding:3px, 3px, 5px;
+}
+ img {
+    width:  200px;
+    height: 200px;
+    float: center;
+} 
+#subdued{
+   text-align:center;
+   color: #43BCE9
+}/* Write your CSS here! */
